@@ -38,7 +38,7 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ### 2019
 
-(Chemical Science 10 Dec 2019) Spectral deep learning for prediction and prospective validation of functional groups [paper]([Spectral deep learning for prediction and prospective validation of functional groups - Chemical Science (RSC Publishing)](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06240h)) [code]([chopralab/candiy_spectrum (github.com)](https://github.com/chopralab/candiy_spectrum))
+(Chemical Science 10 Dec 2019) Spectral deep learning for prediction and prospective validation of functional groups [paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06240h) [code](https://github.com/chopralab/candiy_spectrum)
 
 
 
