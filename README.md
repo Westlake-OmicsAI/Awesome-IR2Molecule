@@ -58,7 +58,7 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ### 2023
 
-(Chemical Science 2022.10.25)Automatic materials characterization from infrared spectra using convolutional neural networks [paper]([Automatic materials characterization from infrared spectra using convolutional neural networks - Chemical Science (RSC Publishing)](https://pubs.rsc.org/cs/content/articlelanding/2023/sc/d2sc05892h)) [code]([gj475/irchracterizationcnn: Automatic materials characterization of infrared spectra using convolutional neural networks (github.com)](https://github.com/gj475/irchracterizationcnn))
+(Chemical Science 2022.10.25)Automatic materials characterization from infrared spectra using convolutional neural networks [paper](https://pubs.rsc.org/cs/content/articlelanding/2023/sc/d2sc05892h) [code](https://github.com/gj475/irchracterizationcnn)
 
 (ChemRxiv 2023.5.15) Leveraging Infrared Spectroscopy for Automated Structure Elucidation[paper](https://chemrxiv.org/engage/chemrxiv/article-details/645df5cbf2112b41e96da616)   [code](https://github.com/rxn4chemistry/rxn-ir-to-structure)
 
